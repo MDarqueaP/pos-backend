@@ -31,8 +31,11 @@ java --version
 ```
 ## Setting up database
 For this project to work it's necessary that your PostgreSQL DB is up in your localhost. Once your database is running create a database with the user **postgres**, so that the following connection credentials should work on the port **5432**:
+
 **User: postgres**
+
 **Password: 12345**
+
 **DB name: edimca**
 
 ## Build
