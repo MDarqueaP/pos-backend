@@ -36,7 +36,7 @@ For this project to work it's necessary that your PostgreSQL DB is up in your lo
 
 **Password: 12345**
 
-**DB name: edimca**
+**DB name: posDB**
 
 ## Build
 
